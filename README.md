@@ -1,0 +1,2 @@
+# vue_admin_scaffold
+基于vuejs全家桶搭建客户端渲染单页面
